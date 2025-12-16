@@ -2,7 +2,7 @@
 
 🧪 Este repositorio es mi laboratorio de pruebas, donde muestro la transición natural que estoy experimentando hacia la profesión de QA Manual.
 Vengo del sector de la traducción, y  estoy especializada en localización de productos digitales. Mi enfoque une calidad, lenguaje y experiencia de usuario para crear interacciones digitales accesibles, claras y fluidas.
-Os mostraré algunos de mis proyectos personales guiados por el detalle, la creatividad y el cuidado por la experiencia digital.
+Os mostraré algunos de mis proyectos personales en los que he priorizado el detalle, la creatividad y el cuidado por la experiencia de usuario.
 
 ## 🔍 **¿Qué encontrarás aquí?**
 
