@@ -1,10 +1,11 @@
-👋 ¡Hola! Soy Raquel Simarro, especialista en localización & QA manual; aquí os presento **Test Lab Portfolio**.
+👋 ¡Hola! Soy Raquel Simarro, QA manual especialista en localización; aquí os presento mi **Test Lab Portfolio**.
 
-🧪 Este repositorio es mi laboratorio de pruebas, donde muestro la transición natural que estoy experimentando hacia la profesión de QA Manual.
-Vengo del sector de la traducción, y  estoy especializada en localización de productos digitales. Mi enfoque une calidad, lenguaje y experiencia de usuario para crear interacciones digitales accesibles, claras y fluidas.
+🧪 Este repositorio es mi laboratorio de pruebas, donde comparto mis experimentos en QA funcional.
+Mi enfoque une calidad, lenguaje y experiencia de usuario para crear interacciones digitales accesibles, claras y fluidas.
+Esta dimensión lingüística se debe a un _background_ muy sólido en traducción y localización de productos digitales.
 Os mostraré algunos de mis proyectos personales en los que he priorizado el detalle, la creatividad y el cuidado por la experiencia de usuario.
 
-## 🔍 **¿Qué encontrarás aquí?**
+## 🔍 **¿Qué encontraréis aquí?**
 
 Este portfolio reúne proyectos y ejemplos prácticos de:
 
@@ -12,7 +13,7 @@ Este portfolio reúne proyectos y ejemplos prácticos de:
 * **QA de localización**
 * **SQL aplicado a QA**
 
-Todo lo he ido creando para mostrar habilidades reales y metodología.
+Todo este material lo he ido creando para mostrar habilidades reales y metodología.
 
 ## 🧰 **Mi caja de herramientas y conocimientos**
 
